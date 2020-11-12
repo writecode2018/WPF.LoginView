@@ -1,3 +1,4 @@
 *.suo
 sqlite3
 Debug
+/WPF.LoginView/*.user
