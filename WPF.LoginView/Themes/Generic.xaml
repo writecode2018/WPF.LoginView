@@ -1,0 +1,8 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="pack://application:,,,/WPF.LoginView;component/Themes/Images.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/WPF.LoginView;component/Themes/Paths.xaml" />
+        <ResourceDictionary Source="pack://application:,,,/WPF.LoginView;component/Themes/ButtonStyles.xaml" />
+
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
